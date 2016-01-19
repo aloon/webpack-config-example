@@ -11,3 +11,4 @@ webpack -p
 
 npm install babel-loader --save-dev
 
+webpack-dev-server --progress --colors
