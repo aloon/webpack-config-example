@@ -1,7 +1,7 @@
 {
   "name": "webpack2",
   "version": "1.0.0",
-  "description": "examples",
+  "description": "this is only a webpack configuration example",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git://github.com/username/repository.git"
+    "url": "https://github.com/aloon/webpack-config-example"
   },
   "devDependencies": {
     "babel-core": "^6.4.0",
