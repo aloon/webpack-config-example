@@ -4,7 +4,7 @@
   "description": "this is only a webpack configuration example",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "mocha",
     "lint": "eslint . --ext .js --ext .jsx"
   },
   "author": "@aloon",
